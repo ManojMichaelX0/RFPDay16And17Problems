@@ -1,0 +1,7 @@
+Debug/
+.gitignore.txt
+Day16And17Problems.csproj.nuget.dgspec.json
+Day16And17Problems.csproj.nuget.g.props
+Day16And17Problems.csproj.nuget.g.targets
+project.assets.json
+project.nuget.cache
